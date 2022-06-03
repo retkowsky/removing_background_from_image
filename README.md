@@ -9,7 +9,6 @@ pretty useful for some computer vision usecase where you need to focus on some p
 <img src = "sidebyside_coins.jpg">
 <img src = "sidebyside_fruits.jpg">
 <img src = "sidebyside_multiplecars.jpg">
-
  
 03-June-2022
 
